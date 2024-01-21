@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mkucur
-- 👀 I’m interested in mobile App
-- 🌱 I’m currently learning React-Native
-- 💞️ I’m looking to collaborate on React-Native
 - 📫 How to reach me e-mail mehmetkucur@hotmail.com.
 
 
